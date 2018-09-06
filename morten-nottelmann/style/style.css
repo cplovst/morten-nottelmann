@@ -104,6 +104,9 @@ i:hover {
 }
 /*video*/
 
+iframe {
+    width: 100%;
+}
 
 /*section 2*/
 
@@ -147,6 +150,7 @@ i:hover {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top: -5px;
 }
 
 .parallaxtwo {
