@@ -206,6 +206,14 @@ video {
     font-family: sans-serif;
 }
 
+.smal{
+    text-align: center;
+}
+
+.snak{
+    margin-left:40%;
+}
+
 #gif {
     float: right;
     margin-right: 300px;

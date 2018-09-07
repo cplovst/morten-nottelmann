@@ -21,3 +21,7 @@ var video = document.getElementById('myVideo'), fraction = 0.8;
             checkScroll();
             window.addEventListener('scroll', checkScroll, false);
             window.addEventListener('resize', checkScroll, false);
+                        
+
+                   
+
