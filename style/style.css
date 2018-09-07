@@ -7,11 +7,12 @@ font til overskrifter : font-family: 'Vidaloka', serif;*/
 
 
 h1 {
-    font-family: serif;
+    font-family: 'Vidaloka', serif;
+    ;
 }
 
 p {
-    font-family: sans-serif;
+    font-family: 'Signika', sans-serif;;
 }
 
 .container {
