@@ -1,7 +1,3 @@
-body {
-    background-color: rgb(244,244,244);
-}
-
 /* font til tekster : font-family: 'Signika', sans-serif;
 font til overskrifter : font-family: 'Vidaloka', serif;*/
 
@@ -89,10 +85,8 @@ i:hover {
 
 .undervisning-container {
     border: 5px solid lightgoldenrodyellow;
-    height: 460px;
     background-color: lightgoldenrodyellow;
     margin-top: -50px;
-    margin-bottom: -155px;
 }
 
 #undervisning {
@@ -101,7 +95,7 @@ i:hover {
     margin-left: 1%;
     margin-bottom: 1%;
     margin-right: 10%;
-    float:left;
+    float: left;
 }
 
 .Morten h1 {
