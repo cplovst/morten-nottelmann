@@ -22,7 +22,7 @@ p {
 }
 
 .parallax-hero {
-    background-image: url(/images/heroimage%20.png);
+    background-image: url(/images/heroimage.png);
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
