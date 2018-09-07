@@ -93,9 +93,10 @@ i:hover {
     width: 40%;
     margin-top: 1%;
     margin-left: 1%;
-    margin-bottom: 1%;
+    margin-bottom: 2%;
     margin-right: 10%;
     float: left;
+    overflow: hidden;
 }
 
 .Morten h1 {
