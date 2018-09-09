@@ -267,3 +267,33 @@ footer p {
     margin-left: 100px;
     margin-top: 200px;
 }
+
+/* Meget stor skærm */
+
+@media (min-width:1921px) {
+    
+    .parallax-hero {
+    min-height: 1100px;    
+    }
+    
+    .undervisning-container {
+        height: 520px;
+    }
+    
+    .undervisning-container p {
+        font-size: 17.5px;
+    }
+    
+    .parallaxone {
+        min-height: 1200px;
+    }
+    
+    .parallaxtwo {
+        min-height: 1200px;
+    }
+    
+    .parallathree {
+        min-height: 1200px;
+    }
+}
+    
