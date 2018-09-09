@@ -305,7 +305,7 @@ footer p {
 
 /* Mobil */
 
-@media (max-width:699px) {
+@media (max-width:700px) {
     
     #titel {
         font-size: 30px;
@@ -365,7 +365,7 @@ footer p {
 
 /* Tablet */
 
-@media (min-width:700px) {
+@media (min-width:701px and max-width:1600px) {
     
     #titel {
         width: 500px;
