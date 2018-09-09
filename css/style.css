@@ -295,6 +295,7 @@ footer p {
     .parallathree {
         min-height: 1200px;
     }
+    
 }
 
 /* Mobil */
@@ -303,10 +304,57 @@ footer p {
     
     #titel {
         font-size: 30px;
+        width: 300px;
+        height: 100px;
     }
     
     #auto {
         width: 200px;
+        margin-left: 120px;
+    }
+    
+    .venstre {
+        margin-left: 0;
+    }
+    
+    .lyd {
+        display: none;
+    }
+    
+    #gif {
+        display: none;
+        margin-right: 0;
+    }
+    
+    #knap {
+        width: 330px;
+        margin: 0;
+    }
+    
+    .venstre p {
+        margin-left: 0;
+        width: 100%;
+    }
+    
+    footer {
+        margin-top: -150px;
+        margin-right: 0;
+    }
+    
+    .tekst1 {
+        width: 50%;
+    }
+    
+    .tekst2 {
+        width: 50%;
+    }
+    
+    .tekst3 {
+        width: 50%;
+    }
+    
+    #skjul {
+        display: none;
     }
 }
 
