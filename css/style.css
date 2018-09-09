@@ -296,4 +296,25 @@ footer p {
         min-height: 1200px;
     }
 }
+
+/* Mobil */
+
+@media (max-width:419px) {
     
+    #titel {
+        font-size: 30px;
+    }
+    
+    #auto {
+        width: 200px;
+    }
+}
+
+/* Tablet */
+
+@media (min-width:420px) {
+    
+    .parallax-hero {
+        width: 100%;
+    }
+}
