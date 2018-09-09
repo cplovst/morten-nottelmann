@@ -277,7 +277,7 @@ footer p {
     }
     
     .undervisning-container {
-        height: 690px;
+        height: 550px;
     }
     
     .undervisning-container p {
@@ -301,6 +301,13 @@ footer p {
         min-height: 1200px;
     }
     
+    #undervisning {
+        margin-top: 90px;
+    }
+    
+    .Morten {
+        margin-top: -100px;
+    }
 }
 
 /* Mobil */
