@@ -27,7 +27,7 @@ p {
 }
 
 .parallax-hero {
-    background-image: url(images/heroimage.png);
+    background-image: url(../images/heroimage.png);
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
@@ -152,7 +152,7 @@ video {
 }
 
 .parallaxone {
-    background-image: url(images/reol.JPG);
+    background-image: url(../images/reol.JPG);
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
@@ -162,7 +162,7 @@ video {
 }
 
 .parallaxtwo {
-    background-image: url(images/stress.JPG);
+    background-image: url(../images/stress.JPG);
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
@@ -173,7 +173,7 @@ video {
 /*section 3*/
 
 .parallaxthree {
-    background-image: url(images/fremtid.JPG);
+    background-image: url(../images/fremtid.JPG);
     min-height: 1000px;
     background-attachment: fixed;
     background-position: center;
