@@ -367,7 +367,56 @@ footer p {
 
 @media (min-width:420px) {
     
-    .parallax-hero {
-        width: 100%;
+    #titel {
+        width: 500px;
     }
+    
+    #gif {
+        display: none;
+    }
+    
+    #auto {
+        width: 500px;
+        margin-left: 120px
+    }
+    
+    footer p {
+        margin: 0;
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+    
+    #knap {
+        margin-left: -60px;
+        width: 100%;
+        font-size: 60px;
+    }
+    
+    footer {
+        margin-top: -140px;
+    }
+    
+    .tekst1 {
+        width: 300px;
+    }
+    
+    .tekst2 {
+        width: 300px;
+    }
+    
+    .tekst3 {
+        width: 300px;
+    }
+    
+    .lyd {
+        width: 300px;
+    }
+    
+    .smal {
+        display: none;
+    }
+    
 }
+
