@@ -308,6 +308,10 @@ footer p {
     .Morten {
         margin-top: -100px;
     }
+    
+    #undervisning {
+        width: 30%;
+    }
 }
 
 /* Mobil */
